@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3bf1d39fc625647803f3c757c14d44, type: 3}
+  m_Name: Sirvienta
+  m_EditorClassIdentifier: 
+  Nombre: Martha Anais
+  Apellido: Carvel Walter
+  Edad: 24
+  Relacion: Empleada
+  Profesion: Sirvienta - Estudiante
+  Descripcion: "La empleada dom\xE9stica relata que ella se encontraba en la cocina
+    preparando el caf\xE9 cotidiano de sus jefes cuando en ese momento escucha que
+    suena el tel\xE9fono y al contestarlo le cuentan que el hijo de la esposa de
+    la v\xEDctima no hab\xEDa asistido a clase el d\xEDa de hoy por lo cual la escuela
+    requiere de la presencia de los padres del adolescente en la instituci\xF3n para
+    hablar del comportamiento de alumno\_y\_sus\_notas"
+  Anotaciones: 
+  FotoDePerfil: {fileID: 21300000, guid: 7a705443613dda349957b2145b1325be, type: 3}
+  Extras: []

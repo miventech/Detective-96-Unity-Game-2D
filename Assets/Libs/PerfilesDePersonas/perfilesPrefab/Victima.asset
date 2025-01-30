@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3bf1d39fc625647803f3c757c14d44, type: 3}
+  m_Name: Victima
+  m_EditorClassIdentifier: 
+  Nombre: Oscar Thomas
+  Apellido: Glans Williams
+  Edad: 54
+  Relacion: Victima
+  Profesion: Fiscalia
+  Descripcion: "Descripci\xF3n del hecho: en horas 18:30 h se encontr\xF3 el cad\xE1ver
+    de un hombre en edad adulta, pelo casta\xF1o, ojos negros y 1,83\u202Fm de estatura,
+    en el estudio de su casa, no se muestra signos de violencia ni de entrada forzada
+    lo cual da a entender que la v\xEDctima conoc\xEDa a su asesino. As\xED mismo
+    \xE9l sospecho no se llev\xF3 ning\xFAn objeto de valor como el m\xF3vil o joyas,
+    por lo que el robo es descartado del crimen.\r\n\r\nDescripci\xF3n de la escena
+    del crimen: \r\nEn el lugar de los hechos se encontr\xF3 una taza de caf\xE9
+    con el contenido derramado el cual est\xE1 fue analizado por el equipo forense
+    dando como resultado una mezcla de caf\xE9 con belladona en grandes cantidades."
+  Anotaciones: 
+  FotoDePerfil: {fileID: 21300000, guid: 6d568a1a8f55d154dbb737b763168ef3, type: 3}
+  Extras: []
