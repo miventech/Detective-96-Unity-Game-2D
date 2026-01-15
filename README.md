@@ -253,7 +253,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 [![GitHub](https://img.shields.io/badge/GitHub-@miventech-181717?style=for-the-badge&logo=github)](https://github.com/miventech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Jaspe-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-jaspe-miventech/)
 [![YouTube](https://img.shields.io/badge/YouTube-@MiVenTech-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MiVenTech)
-[![Itch.io](https://img.shields.io/badge/Itch. io-miventech-FA5C5C?style=for-the-badge&logo=itch.io)](https://miventech.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-miventech-FA5C5C?style=for-the-badge&logo=itch.io)](https://miventech.itch.io/)
 [![TikTok](https://img.shields.io/badge/TikTok-@miventech-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@miventech)
 
 </div>
@@ -274,7 +274,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **⭐ If you liked this project, please give it a star! **
 
-[![GitHub Stars](https://img.shields.io/github/stars/miventech/Detective-96-Unity-Game-2D? style=social)](https://github.com/miventech/Detective-96-Unity-Game-2D/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/miventech/Detective-96-Unity-Game-2D?style=social)](https://github.com/miventech/Detective-96-Unity-Game-2D/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/miventech/Detective-96-Unity-Game-2D?style=social)](https://github.com/miventech/Detective-96-Unity-Game-2D/network/members)
 
 **🎮 Don't forget to try the game!**
