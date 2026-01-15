@@ -162,7 +162,7 @@ Assets/Scenes/MainScene.unity
 
 This project was developed for a **Game Jam** with specific constraints: 
 
-- ⏱️ **Time Limit:** [Add time limit]
+- ⏱️ **Time Limit:** 7Days
 - 🎨 **Theme:** Detective/Mystery Investigation
 - 🎵 **Focus:** Narrative and Atmosphere
 
