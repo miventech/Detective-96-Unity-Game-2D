@@ -361,12 +361,12 @@ Have questions or want to discuss the game?
 
 Made with ❤️ and ☕ in **7 days** by **Miventech**
 
-![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-000000? style=flat&logo=unity&logoColor=white)
+![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Game Jam](https://img.shields.io/badge/Game%20Jam-7%20Days-FF6B6B?style=flat)
 
 ### 🎮 Play La Casa Glans Now!
 
-[![Play Button](https://img.shields.io/badge/▶️_CLICK_TO_PLAY-miventech. itch.io/la--casa--glans-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://miventech.itch.io/la-casa-glans)
+[![Play Button](https://img.shields.io/badge/▶️_CLICK_TO_PLAY-miventech.itch.io/la--casa--glans-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://miventech.itch.io/la-casa-glans)
 
 </div>
